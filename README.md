@@ -1,13 +1,13 @@
-### Projeto Login
+# Projeto Login
 data de início: 19 de maio de 2017
 data prevista para témino: 31 de julho de 2017
 github: https://github.com/henriqueferraz/login_site
 
-# Definição
+## Definição
 
 O "Projeto Login" é uma ferramenta de aprendizagem, uma forma lúdica de aprender e quem sabe ensinar. O objetivo deste projeto é mostrar, que um mesmo projeto pode ser feito de várias maneiras. Vou mostrar como um projeto simples, o de se fazer logar em um site, pode ter várias variantes.
 
-# Escopo do projeto
+## Escopo do projeto
 
 Vamos trabalhar com vários exemplos do mesmo projeto, mostrando que, um mesmo assunto pode ser criado do jeito mais comum e "fácil" ao mais complexo. Será dividido em módulos e pastas onde será explicado cada linha, para que serve e o que faz.
 Utilizaremos às seguintes tecnologias:
@@ -24,9 +24,9 @@ Utilizaremos às seguintes tecnologias:
 
 Neste projeto não será coberto a instalação dos softwares informados acima, mostraremos apenas os sites oficiais, caso utilizemos outras fontes, as mesmas serão discriminadas.
 
-##Módulos
+## Módulos
 
-# Módulo 01
+### Módulo 01
 
 Exemplo de login com senha desenvolvido em HTML, CSS e PHP.
 
