@@ -21,4 +21,4 @@ Utilizaremos às seguintes tecnologias:
 
 Neste projeto não será coberto a instalação dos softwares informados acima, mostraremos apenas os sites oficiais, caso utilizemos outras fontes, as mesmas serão discriminadas.
 
-## Verifiqua mais informações no wiki deste repositório
+### Verifiqua mais informações no wiki deste repositório (https://github.com/henriqueferraz/login_site/wiki)
