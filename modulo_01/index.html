@@ -2,7 +2,7 @@
 <!--
 Licença MIT
 Autor: Msc (c) Henrique Ferraz
-Data: (date)
+Data: 19 de maio de 2017
 henriqueferraz@ofnet.com.br
 -->
 <html>
@@ -10,10 +10,18 @@ henriqueferraz@ofnet.com.br
         <title>Sistema Login - Módulo 01</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="formata.css" />
     </head>
     <body>
-        <div>Sistema Login - Módulo 01</div>
+        <div class="centra">
+            Sistema Login - Módulo 01
+            <hr>
+            <form method="POST" action="recebe.php">
+                Informe a senha:<br>
+                <input type="password" name="senha">
+                <br><br>
+                <input type="submit" value="Enviar Dados">
+            </form>
+        </div>
     </body>
 </html>
-
-
