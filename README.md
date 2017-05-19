@@ -1,9 +1,8 @@
 # Projeto Login
-´´´´
+
 data de início: 19 de maio de 2017.
 data prevista para témino: 31 de julho de 2017.
 github: https://github.com/henriqueferraz/login_site.
-´´´´
 
 ## Definição
 
