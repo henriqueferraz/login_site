@@ -13,4 +13,6 @@ if (isset($_POST['senha']) && !empty($_POST['senha'])) {
     } else {
         echo 'Atenção ! Senha incorreta, login não efetuado';
     }
+} else {
+    echo 'Atenção ! Senha incorreta, login não efetuado';
 }
