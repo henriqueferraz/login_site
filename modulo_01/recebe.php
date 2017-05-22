@@ -7,7 +7,6 @@
  * henriqueferraz@ofnet.com.br
  */
 if (isset($_POST['senha']) && !empty($_POST['senha'])) {
-    $senha = $_POST['senha'];
     if ($_POST['senha'] === 'maria') {
         echo 'Login efetuado com sucesso!!!';
     } else {
